@@ -18,19 +18,19 @@ The dataset includes fields such as:
 
 ##Process
 ---
-Data cleaning for anamolies in Excel. 
-Made sure Data is clean and consistent with respect to data type, data format, values used.
-Created Pivot tables for data visualization as per the problem statement.
-Merged Pivot tables with the help of slicer for dashboard visualization. 
+- Data cleaning for anamolies in Excel. 
+- Made sure Data is clean and consistent with respect to data type, data format, values used.
+- Created Pivot tables for data visualization as per the problem statement.
+- Merged Pivot tables with the help of slicer for dashboard visualization. 
 
 ##Dashboard Creation
 ---
-Clustered Columns with Line chart - Visualized order v/s sales numbers. Line indicating the count of orders and sales indicated by the clustered columns. Highest order and sales were indicated in March Month.
-Pie chart - Visualized Sales by gender. Indicating a higher sales by Women compared to Men.
-Pie Chart - Visualized Order Status into three categories - Refunded (2%), Returned (3%), Cancelled (3%), Delivered (92%).
-Clustered Bar Chart - Visualized the top performing states by sales.
-Clustered Bar chart - Visualized Age v/s Gender. Highest orders placed by Women in adult age group.
-Pie chart - Visualized the Order Channel of the customer base. Highest orders placed on Amazon followed by Flipkart and Ajio.
+- Clustered Columns with Line chart - Visualized order v/s sales numbers. Line indicating the count of orders and sales indicated by the clustered columns. Highest order and sales were indicated in March Month.
+- Pie chart - Visualized Sales by gender. Indicating a higher sales by Women compared to Men.
+- Pie Chart - Visualized Order Status into three categories - Refunded (2%), Returned (3%), Cancelled (3%), Delivered (92%).
+- Clustered Bar Chart - Visualized the top performing states by sales.
+- Clustered Bar chart - Visualized Age v/s Gender. Highest orders placed by Women in adult age group.
+- Pie chart - Visualized the Order Channel of the customer base. Highest orders placed on Amazon followed by Flipkart and Ajio.
 
 ## Insights Uncovered
 - The Order v/s sales indicate a positive linear relationship as most of the orders are converted into sales. 
