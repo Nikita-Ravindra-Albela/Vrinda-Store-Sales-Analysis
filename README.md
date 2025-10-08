@@ -1,6 +1,6 @@
 # Vrinda Store Sales Dashboard
 
-An interactive Power BI dashboard designed to analyze sales data from Vrinda Store—a multi-category retail business. This project translates raw transaction logs into meaningful, decision-ready visualizations that support data-driven strategy.
+An interactive Excel dashboard designed to analyze sales data from Vrinda Store—a multi-category retail business. This project translates raw transaction logs into meaningful, decision-ready visualizations that support data-driven strategy.
 
 ## Objectives
 - Visualize monthly and category-wise sales performance
