@@ -40,22 +40,22 @@ The dataset includes fields such as:
 - Order: Age v/s Gender highest orders placed by women in the adult group category. Company could run a loyalty programme for these customers to increase sales for Adult and teenage group. It could further check reasons for less orders placed by senior citizen age group and make user friendly options to place orders for them and study their customer feedback and review in detail.
 - Stores could introduced trending products for the women category and coupon offers. 
 
-## 🛠️ Tools Used
+## Tools Used
 - **Excel** – Preliminary data cleanup, data cleaning, interactive dashboard creation.
 - **DAX Functions** – Advanced calculations and dynamic filters performed in Excel.
 
-## 💡 Key Features
+## Key Features
 - Dynamic slicers for region, category, and customer filters
 - KPI cards highlighting revenue, order volume, and growth rate
 - Heatmaps and line charts for temporal analysis.
 - Drill-down capabilities for category/product-level insights.
 
-## 🧵 How to Use
+## How to Use
 1. Open the `.pbix` dashboard file in Power BI Desktop
 2. Explore visualizations via filters and slicers
 3. Use insights to inform marketing, inventory, and pricing strategies
 
-## 🙋 About Me
+## About Me
 Hi, I'm **Nikita Albela**, transitioning into Data Analytics with an MBA in Business Analytics and a knack for data storytelling. I built this project to refine my dashboarding skills and showcase how analytical insights can power retail decisions.
 
 Let's connect on [LinkedIn](www.linkedin.com/in/nikita-albela-4194b1164) 👩‍💻
